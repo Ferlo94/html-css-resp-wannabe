@@ -90,7 +90,7 @@ img {
     width: 100%;
   }
 
-  #steps .row> .central, 
+  #steps .row > .central, 
   #steps .row > .right, 
   #lezioni .row > .right {
     margin-top: 80px;
@@ -98,7 +98,7 @@ img {
 
 }
 
-/* 820px  */
+/* 820px */
 
 @media screen and (min-width: 420px) and (max-width: 820px) {
 
